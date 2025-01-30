@@ -68,10 +68,6 @@ Un sitio web de muestra para alquiler de cabañas de montaña.
   <img src="https://github-readme-stats.vercel.app/api?username=pokkzdev&show_icons=true&theme=gotham&locale=es" alt="Estadísticas de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokkzdev&theme=gotham&locale=es" alt="Racha de GitHub" />
-</p>
-
 ### 📫 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pokkzdev)
