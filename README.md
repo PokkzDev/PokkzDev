@@ -300,3 +300,4 @@ Professional cybersecurity certification that validates fundamental skills in ne
 
 <p align="center">"Transforming ideas into solutions, one line of code at a time."</p>
 </div>
+
